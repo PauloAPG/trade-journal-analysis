@@ -5,7 +5,7 @@ data,ativo,direcao,sessao,resultado,rr,tp,gatilho,passo_forcado,emocao,o_que_fun
 2026-01-13,XAU/USD,LONG,Londres,LOSS,-1.0,stop,BPR,2,FOMO,Identifiquei a tendência perfeitamente,Aguardar uma captura clara de liquidez
 2026-01-13,XAU/USD,LONG,Nova York,WIN,3.5,TP1 (-27.0%),BPR,Nenhum,Medo,Realizei uma parcial no TP1 e levei o stop para BE,Proteger as operações evita perdas maiores
 2026-01-13,XAU/USD,LONG,Nova York,WIN,7.0,TP3 (-100.0%),IFVG,Nenhum,Focado,Aguardei o preço atingir o alvo e protegi em BE,Mentalidade para seguir o setup sem exitar
-2026-01-26,XAU/USD,SHORT,Asia,WIN,5.5,TP2, (-61.8%),BPR,1,Distraido,Captura de liquidez e ChoCh válido,Não operar contra a tendência
+2026-01-26,XAU/USD,SHORT,Asia,WIN,5.5,TP2 (-61.8%),BPR,1,Distraido,Captura de liquidez e ChoCh válido,Não operar contra a tendência
 2026-01-27,XAU/USD,LONG,Asia,WIN,1.9,TP1 (-27.0%),IFVG,Nenhum,Focado,Parcial no TP1 e stop em BE,Proteger as operações evita perdas maiores
 2026-01-28,XAU/USD,LONG,Nova York,LOSS,-1.0,stop,BPR,Nenhum,Focado,Todo o setup foi respeitado mas não funcionou,Nem sempre o setup funciona
 2026-01-29,XAU/USD,LONG,Londres,WIN,5.4,TP2 (-61.8%),IFVG,Nenhum,Focado,Todo o setup foi respeitado e o mercado agiu em conforme,O Setup é confiável
