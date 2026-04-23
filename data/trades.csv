@@ -1,0 +1,23 @@
+data,ativo,direcao,sessao,resultado,rr,tp,gatilho,passo_forcado,emocao,o_que_funcionou,licao
+2026-01-05,XAU/USD,LONG,Nova York,WIN,5.0,TP3 (-100.0%),BPR,Nenhum,Focado,Aguardei o retorno a região de interesse após os ChoCh,Aguardar o setup se formar perfeitamente
+2026-01-07,XAU/USD,LONG,Nova York,LOSS,-1.0,stop,BPR,5,FOMO,Identifiquei bem a liquidez e aguardei o ChoCH,Não entrar antes do preço retornar á Golden Zone
+2026-01-08,XAU/USD,LONG,Nova York,LOSS,-1.0,stop,Nenhum,6,Ansioso,Traçei a fibo perfeitamente na impulsão do ChoCh,Não entrar sem nenhum gatilho micro
+2026-01-13,XAU/USD,LONG,Londres,LOSS,-1.0,stop,BPR,2,FOMO,Identifiquei a tendência perfeitamente,Aguardar uma captura clara de liquidez
+2026-01-13,XAU/USD,LONG,Nova York,WIN,3.5,TP1 (-27.0%),BPR,Nenhum,Medo,Realizei uma parcial no TP1 e levei o stop para BE,Proteger as operações evita perdas maiores
+2026-01-13,XAU/USD,LONG,Nova York,WIN,7.0,TP3 (-100.0%),IFVG,Nenhum,Focado,Aguardei o preço atingir o alvo e protegi em BE,Mentalidade para seguir o setup sem exitar
+2026-01-26,XAU/USD,SHORT,Asia,WIN,5.5,TP2, (-61.8%),BPR,1,Distraido,Captura de liquidez e ChoCh válido,Não operar contra a tendência
+2026-01-27,XAU/USD,LONG,Asia,WIN,1.9,TP1 (-27.0%),IFVG,Nenhum,Focado,Parcial no TP1 e stop em BE,Proteger as operações evita perdas maiores
+2026-01-28,XAU/USD,LONG,Nova York,LOSS,-1.0,stop,BPR,Nenhum,Focado,Todo o setup foi respeitado mas não funcionou,Nem sempre o setup funciona
+2026-01-29,XAU/USD,LONG,Londres,WIN,5.4,TP2 (-61.8%),IFVG,Nenhum,Focado,Todo o setup foi respeitado e o mercado agiu em conforme,O Setup é confiável
+2026-01-30,XAU/USD,LONG,Nova York,LOSS,-1.0,stop,IFVG,5,Confiante,Tendencia liquidez e ChoCh válidos,Não entrar antes do preço retornar á Golden Zone
+2026-02-19,XAU/USD,LONG,Nova York,LOSS,-1.0,stop,Nenhum,6,Ansioso,Identifiquei a tendência corretamente,Não inventar operações por viés
+2026-03-03,XAU/USD,SHORT,Nova York,LOSS,-1.0,stop,BPR,1,Distraido,ChoCh e Golden Zone respeitados,Não operar contra a tendência
+2026-03-03,XAU/USD,SHORT,Nova York,LOSS,-1.0,stop,BPR,1,FOMO,Manipulação clara do mercado,Não operar com um viés
+2026-03-03,XAU/USD,SHORT,Nova York,LOSS,-1.0,stop,BPR,1,FOMO,Manipulação clara do mercado,Não realizar revenge trading
+2026-03-05,XAU/USD,SHORT,Sem sessão,LOSS,-1.0,stop,BPR,1,Distraido,Setup bem estabelecido,Não operar sem uma KillZone
+2026-03-10,XAU/USD,LONG,Londres,LOSS,-1.8,stop,IFVG,1,Distraido,Setup estava funcionando perfeitamente,Notícias podem me stopar além da minha ordem
+2026-03-10,XAU/USD,LONG,Londres,WIN,7.4,TP3 (-100%),BPR,Nenhum,FOMO,Setup funcionou perfeitamente,Manter a calma ao ver o mercado se movimentar
+2026-03-23,XAU/USD,LONG,Asia,BE,0.0,BE,BPR,7,Distraido,Setup bem estabelecido,Realizar uma parcial ao atingir 3:1
+2026-04-01,XAU/USD,LONG,Asia,WIN,6.0,TP2 (-61.8%),BPR,Nenhum,Focado,Aguardei o gatilho se formar completamente antes de entrar,Paciência é a melhor virtude
+2026-04-06,XAU/USD,LONG,Asia,WIN,3.0,TP1 (-27.0%),IFVG,Nenhum,Focado,Protegi minha operação com uma parcial e BE,As vezes protegemos cedo demais
+2026-04-14,XAU/USD,LONG,Nova York,LOSS,-1.0,stop,FVG,5,Distraido,Tendenica liquidez e ChoCh válidos,Se o preço não atingir a Golden Zone não tem trade
